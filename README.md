@@ -11,18 +11,18 @@
 
 <h2>🛠 My Toolkit</h2>
 
-[![Terraform](https://img.shields.io/badge/Terraform-3776AB?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Ansible](https://img.shields.io/badge/Ansible-E34F26?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
-[![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-1572B6?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/engine/swarm/)
-[![AWS ECS](https://img.shields.io/badge/AWS_ECS-007ACC?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/ecs/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Github](https://img.shields.io/badge/github-ffca28?style=for-the-badge&logo=github&logoColor=black)](https://github.com/)
-[![Gitlab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab&logoColor=61DAFB)](https://about.gitlab.com/)
-[![Bitbucket](https://img.shields.io/badge/bitbucket-38B2AC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
-[![Jenkins](https://img.shields.io/badge/jenkins-319795?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![Flux](https://img.shields.io/badge/Flux-4A4A55?style=for-the-badge&logo=fluxcd&logoColor=FF3E00)](https://fluxcd.io/)
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-4A4A55?style=for-the-badge&logo=argocd&logoColor=FF3E00)](https://argoproj.github.io/cd/)
-[![Helm](https://img.shields.io/badge/Helm-4A4A55?style=for-the-badge&logo=helm&logoColor=FF3E00)](https://helm.sh/)
+[![Terraform](https://img.shields.io/badge/Terraform-red?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Ansible](https://img.shields.io/badge/Ansible-orange?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-yellow?style=for-the-badge&logo=docker&logoColor=black)](https://docs.docker.com/engine/swarm/)
+[![AWS ECS](https://img.shields.io/badge/AWS_ECS-chartreuse?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/ecs/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-green?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Github](https://img.shields.io/badge/github-00ff80?style=for-the-badge&logo=github&logoColor=black)](https://github.com/)
+[![Gitlab](https://img.shields.io/badge/gitlab-cyan?style=for-the-badge&logo=gitlab&logoColor=61DAFB)](https://about.gitlab.com/)
+[![Bitbucket](https://img.shields.io/badge/bitbucket-0080ff?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
+[![Jenkins](https://img.shields.io/badge/jenkins-blue?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Flux](https://img.shields.io/badge/Flux-purple?style=for-the-badge&logo=fluxcd&logoColor=FF3E00)](https://fluxcd.io/)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-violet?style=for-the-badge&logo=argocd&logoColor=FF3E00)](https://argoproj.github.io/cd/)
+[![Helm](https://img.shields.io/badge/Helm-magenta?style=for-the-badge&logo=helm&logoColor=black)](https://helm.sh/)
 
 
 <h2>🏆 Github Stats</h2>
