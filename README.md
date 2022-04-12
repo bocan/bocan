@@ -18,7 +18,7 @@
 </p>
 
 <h2>🤝 Let's stay connected!</h2>
-<a href="https://www.linkedin.com/in/bocan/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/TheSoundODrums" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>  &nbsp; 
+<a href="https://www.linkedin.com/in/bocan/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  
     <br/>
     <br/>
 <a href="https://github.com/bocan/github-profile-views-counter">
