@@ -33,11 +33,6 @@
 [![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
 [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
 
-
-
-
-
-
 <h2>🏆 Github Stats</h2>
 
 <p align="center"> 
@@ -54,3 +49,7 @@
 <a href="https://github.com/bocan/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bocan">
 </a>
+    
+<h2>Know, O Prince,</h2>
+    
+that between the years when the oceans drank Microsoft DOS and the gleaming Windows, and the rise of "The Cloud", there was an Age undreamed of, when shining servers lay spread across the world like blue mantles beneath the stars - Debian, FreeBSD, Slackware, AIX, Solaris with its dark-haired sales women and server towers of spider-haunted mystery, SuSE with its chivalry, Caldera that bordered the pastoral lands of SCO, OpenBSD with its shadow-guarded passwords, RedHat whose Sys Admins wore steel and silk and gold. But the proudest kingdom of the world was Apple, reigning supreme in the dreaming west. Hither came Chris the Texan, little-haired, sullen-eyed, MacBook in hand, a builder, a programmer, a sys-admin, a devops engineer, with gigantic melancholies and gigantic mirth, to tread the jewelled server rooms of the earth under his sandled feet."
