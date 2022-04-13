@@ -1,5 +1,5 @@
 <h2> < Hello World, I'm <a href="https://www.linkedin.com/in/bocan/" target="_blank">Chris Funderburg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h2>
-    <img align='right' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width='225"'>
+    <img align='right' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width='225'>
     
 - I'm a freelance consultant Cloud Architect / Devops Engineer and run my own company: <a href="https://cloudcauldron.io/" target="_blank">Cloud Cauldron Limited</a>.
 - I'm currently working with <a href="https://www.modu.digital/" target="_blank">Modu Digital</a>, which is a collective of awesome consulting and engineering practitioners.
@@ -53,3 +53,6 @@
 <h2>"Know, O Prince,</h2>
     
 that between the years when the oceans drank Microsoft DOS and the gleaming Windows, and the rise of "The Cloud", there was an Age undreamed of, when shining servers lay spread across the world like blue mantles beneath the stars - Debian, FreeBSD, Slackware, AIX, Solaris with its dark-haired sales women and server towers of spider-haunted mystery, SuSE with its chivalry, Caldera that bordered the pastoral lands of SCO, OpenBSD with its shadow-guarded passwords, RedHat whose Sys Admins wore steel and silk and gold. But the proudest kingdom of the world was Mac OS, reigning supreme in the dreaming west. Hither came Chris the Texan, little-haired, sullen-eyed, MacBook in hand, a builder, a programmer, a sys-admin, a devops engineer, with gigantic melancholies and gigantic mirth, to tread the jewelled server rooms of the earth under his sandled feet."
+<p align='center'>
+<a href="https://xkcd.com/1110/" target="_blank"><img src="https://chris.funderburg.me/images/now/clickndrag.png" width='300'></a>
+</p>
