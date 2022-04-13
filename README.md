@@ -3,7 +3,7 @@
     
 - I'm a freelance consultant Cloud Architect / Devops Engineer and run my own company: <a href="https://cloudcauldron.io/" target="_blank">Cloud Cauldron Limited</a>.
 - I'm currently working with <a href="https://www.modu.digital/" target="_blank">Modu Digital</a>, which is a collective of awesome consulting and engineering practitioners.
-- Our client is <a href="https://www.dekopay.com/" target="_blank">Deko</a>, who provides at-checkout finance. We're helping by working through their historical technical debt and building a more sustainable and secure systems platform to allow them to grow safely.
+- At the moment, our client is <a href="https://www.dekopay.com/" target="_blank">Deko</a>, who provides at-checkout finance. We're helping by working through their historical technical debt and building a more sustainable and secure systems platform to allow them to grow safely.
 - I have more that 25 years experience in the IT industry.  I've been a developer, a DBA, a system administrator, a release engineer, an infrastruture manager, a NOC engineer, and both a cloud engineer, and devops lead.
 - I'm an expert in public clouds like AWS and Google Cloud, infrastructure as code, container building and orchestration, database administration, observability, and software delivery pipelines using Continuous Integration and Continuous Deployment.    
 - Outside of tech, I'm an environmentalist (with a BSc in Environmental Management and Technology), an allotment gardener, a charity trustee, and an occasional Nintendo, Playstation, and console gamer.
