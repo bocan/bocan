@@ -5,24 +5,37 @@
 - I'm currently working with <a href="https://www.modu.digital/" target="_blank">Modu Digital</a>, which is a collective of awesome consulting and engineering practitioners.
 - Our client is <a href="https://www.dekopay.com/" target="_blank">Deko</a>, who provides at-checkout finance. We're helping by working through their historical technical debt and building a more sustainable systems platform to allow them to grow.
 - I have more that 25 years experience in the IT industry.  I've been a developer, a DBA, a system administrator, a release engineer, an infrastruture manager, a NOC engineer, and both a cloud engineer, and devops lead.
-- I'm an expert in public clouds like AWS and Google Cloud, infrastructure as code, container building and orchestration, database administration, and software delivery pipelines using Continuous Integration and Continuous Deployment.    
+- I'm an expert in public clouds like AWS and Google Cloud, infrastructure as code, container building and orchestration, database administration, observability, and software delivery pipelines using Continuous Integration and Continuous Deployment.    
 - Outside of tech, I'm an environmentalist (with a BSc in Environmental Management and Technology), an allotment gardener, a charity trustee, and an occasional Nintendo, Playstation, and console gamer.
 - 📩 Feel free to reach me at chris@cloudcauldron.io.
 
 <h2>🛠 My Toolkit</h2>
 
-[![Terraform](https://img.shields.io/badge/Terraform-red?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Ansible](https://img.shields.io/badge/Ansible-orange?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
-[![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-yellow?style=for-the-badge&logo=docker&logoColor=black)](https://docs.docker.com/engine/swarm/)
-[![AWS ECS](https://img.shields.io/badge/AWS_ECS-chartreuse?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/ecs/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-green?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Github](https://img.shields.io/badge/github-00ff80?style=for-the-badge&logo=github&logoColor=black)](https://github.com/)
-[![Gitlab](https://img.shields.io/badge/gitlab-cyan?style=for-the-badge&logo=gitlab&logoColor=61DAFB)](https://about.gitlab.com/)
-[![Bitbucket](https://img.shields.io/badge/bitbucket-0080ff?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
-[![Jenkins](https://img.shields.io/badge/jenkins-blue?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![Flux](https://img.shields.io/badge/Flux-purple?style=for-the-badge&logo=fluxcd&logoColor=FF3E00)](https://fluxcd.io/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/)
+[![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=black)](https://docs.docker.com/engine/swarm/)
+[![AWS ECS](https://img.shields.io/badge/AWS_ECS-232F3E?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/ecs/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Gitlab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=61DAFB)](https://about.gitlab.com/)
+[![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
+[![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Flux](https://img.shields.io/badge/Flux-22ADF6?style=for-the-badge&logo=fluxcd&logoColor=FF3E00)](https://fluxcd.io/)
 [![ArgoCD](https://img.shields.io/badge/ArgoCD-violet?style=for-the-badge&logo=argocd&logoColor=FF3E00)](https://argoproj.github.io/cd/)
-[![Helm](https://img.shields.io/badge/Helm-magenta?style=for-the-badge&logo=helm&logoColor=black)](https://helm.sh/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
+[![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)](https://www.elastic.co/logstash/)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
+
+
+
+
 
 
 <h2>🏆 Github Stats</h2>
