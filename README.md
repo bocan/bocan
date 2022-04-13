@@ -3,7 +3,7 @@
 </p>
 
 <h2> < Hello World, I'm <a href="https://www.linkedin.com/in/bocan/" target="_blank">Chris Funderburg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h2>
-    <img align='right' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width='225'>
+    <img alt="click - then click and drag" align='right' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width='225'>
     
 - I'm a freelance consultant Cloud Architect / Devops Engineer and run my own company: <a href="https://cloudcauldron.io/" target="_blank">Cloud Cauldron Limited</a>.
 - I'm currently working with <a href="https://www.modu.digital/" target="_blank">Modu Digital</a>, which is a collective of awesome consulting and engineering practitioners.
