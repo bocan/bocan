@@ -6,7 +6,7 @@
 - At the moment, our client is <a href="https://www.dekopay.com/" target="_blank">Deko</a>, who provides at-checkout finance. We're helping by working through their historical technical debt and building a more sustainable and secure systems platform to allow them to grow safely.
 - I have more that 25 years experience in the IT industry.  I've been a developer, a DBA, a system administrator, a release engineer, an infrastruture manager, a NOC engineer, and both a cloud engineer, and devops lead.
 - I'm an expert in public clouds like AWS and Google Cloud, infrastructure as code, container building and orchestration, database administration, observability, and software delivery pipelines using Continuous Integration and Continuous Deployment.    
-- Outside of tech, I'm an environmentalist (with a BSc in Environmental Management and Technology), an allotment gardener, a charity trustee, and an occasional Nintendo, Playstation, and console gamer.
+- Outside of tech, I'm an keen photographer, an environmentalist (with a BSc in Environmental Management and Technology), an allotment gardener, a charity trustee, and an occasional Nintendo Switch, Playstation 5, and PC gamer.
 - 📩 Feel free to reach me at chris@cloudcauldron.io.
 
 <h2>🛠 My Toolkit</h2>
