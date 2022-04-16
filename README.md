@@ -1,6 +1,5 @@
 <p align='center'>
 <a title="click and click and drag" href="https://xkcd.com/1110/" target="_blank"><img src="images/clickndrag.png" ></a>
-    <img src="https://chris.funderburg.me/advice/test.php">
 </p>
 
 <h2> < Hello World, I'm <a href="https://www.linkedin.com/in/bocan/" target="_blank">Chris Funderburg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h2>
@@ -45,6 +44,10 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bocan&theme=dark" width="100%"><br />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocan&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="100%">
 </p>
+
+<h2>🤝 Advice Bot!</h2>
+
+<img src="https://chris.funderburg.me/advice/test.php">
 
 <h2>🤝 Let's stay connected!</h2>
 
