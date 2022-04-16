@@ -47,7 +47,7 @@
 
 <h2>🤝 Advice Bot!</h2>
 
-<img src="https://chris.funderburg.me/advice/test.php">
+<img src="https://chris.funderburg.me/advice/test.php?">
 
 <h2>🤝 Let's stay connected!</h2>
 
