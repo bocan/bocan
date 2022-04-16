@@ -45,7 +45,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocan&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="100%">
 </p>
 
-<h2>🤝 Advice Bot!</h2>
+<h2>📣 Advice Bot!</h2>
 
 <img src="https://chris.funderburg.me/advice/test.php?">
 
