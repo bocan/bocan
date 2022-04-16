@@ -13,6 +13,10 @@
 - Outside of tech, I'm an keen photographer, an environmentalist (with a BSc in Environmental Management and Technology), an allotment gardener, a charity trustee, and an occasional Nintendo Switch, Playstation 5, and PC gamer.
 - 📩 Feel free to reach me at chris@cloudcauldron.io.
 
+<h2>📣 Advice Bot!</h2>
+
+<img src="https://chris.funderburg.me/advice/test.php?">
+
 <h2>🛠 My Toolkit</h2>
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
@@ -45,17 +49,13 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocan&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="100%">
 </p>
 
-<h2>📣 Advice Bot!</h2>
-
-<img src="https://chris.funderburg.me/advice/test.php?">
-
 <h2>🤝 Let's stay connected!</h2>
 
 <a href="https://www.linkedin.com/in/bocan/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  
     <br/>
     <br/>
-<a href="https://github.com/bocan/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bocan">
+<a href="https://github.com/ghpvc/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bocan&color=green&style=for-the-badge">
 </a>
     
 <h2>"Know, O Prince,</h2>
