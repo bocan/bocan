@@ -1,5 +1,6 @@
 <p align='center'>
 <a title="click and click and drag" href="https://xkcd.com/1110/" target="_blank"><img src="images/clickndrag.png" ></a>
+    <img src="https://chris.funderburg.me/advice/test.php">
 </p>
 
 <h2> < Hello World, I'm <a href="https://www.linkedin.com/in/bocan/" target="_blank">Chris Funderburg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h2>
