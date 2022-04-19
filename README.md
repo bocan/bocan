@@ -6,11 +6,11 @@
     <img alt="click - then click and drag" align='right' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width='225'>
     
 - I'm a freelance consultant Cloud Architect / Devops Engineer and run my own company: <a href="https://cloudcauldron.io/" target="_blank">Cloud Cauldron Limited</a>.
-- I'm currently working with <a href="https://www.modu.digital/" target="_blank">Modu Digital</a>, which is a collective of awesome consulting and engineering practitioners.
+- I'm currently working with <a href="https://www.modu.digital/" target="_blank">Modu Digital</a>, which is a collective of awesome consulting and engineering practitioners - mostly from home, but occasionally from London.
 - At the moment, our client is <a href="https://www.dekopay.com/" target="_blank">Deko</a>, who provides at-checkout finance. We're helping by working through their historical technical debt and building a more sustainable and secure systems platform to allow them to grow safely.
 - In my youth, I worked at Burger King, washed oil rigs so they could be sold, loaded nuclear and non-nuclear munitions onto F-111 and F-16 aircraft in the US Air Force, worked as a an mechanic and then a roofer.  Now, I have more than 25 years experience in the IT industry. I've been a developer, a DBA, a system administrator, a release engineer, an infrastructure manager, a NOC engineer, and both a cloud engineer, and devops lead.
 - I'm an expert in public clouds like AWS and Google Cloud, infrastructure as code, container building and orchestration, database administration, observability, and software delivery pipelines using Continuous Integration and Continuous Deployment.    
-- Outside of tech, I'm an keen photographer, an environmentalist (with a BSc in Environmental Management and Technology), an allotment gardener, a charity trustee, and an occasional Nintendo Switch, Playstation 5, and PC gamer.
+- Outside of tech, I'm an keen photographer, an environmentalist (with an Open University BSc in "Environmental Management and Technology"), an allotment gardener, a charity trustee, and an occasional Nintendo Switch, Playstation 5, and PC gamer.
 - 📩 Feel free to reach me at chris@cloudcauldron.io.
 
 <h2>📣 Advice Bot!</h2>
