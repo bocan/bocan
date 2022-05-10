@@ -15,7 +15,7 @@
 
 <h2>📣 Advice Bot!</h2>
 
-<img src="https://chris.funderburg.me/advice/test.php?">
+<img src="https://cloudcauldron.io/advice/test.php?">
 
 <h2>🛠 My Toolkit</h2>
 
