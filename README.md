@@ -45,8 +45,8 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=bocan&theme=radical&show_icons=true" alt="bocan's Github Stats" width="100%"/><br />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bocan&theme=dark" width="100%"><br />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocan&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="100%">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bocan&theme=dark" width="50%">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocan&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="50%">
 </p>
 
 <h2>🤝 Let's stay connected!</h2>
