@@ -51,7 +51,7 @@
 
 <h2>🤝 Let's stay connected!</h2>
 
-<a href="https://www.linkedin.com/in/bocan/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  
+<a href="https://www.linkedin.com/in/bocan/" target="_blank">LinkedIn</a>&nbsp;<a rel="me" href="https://mastodon.lol/@bocan" target="_blank">Mastodon</a>  
     <br/>
     <br/>
 <a href="https://github.com/ghpvc/github-profile-views-counter">
