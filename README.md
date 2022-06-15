@@ -2,7 +2,7 @@
 <a title="click and click and drag" href="https://xkcd.com/1110/" target="_blank"><img src="images/clickndrag.png" ></a>
 </p>
 
-<h2> < Hello World, I'm <a href="https://www.linkedin.com/in/bocan/" target="_blank">Chris Funderburg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h2>
+<h2> < Hello World, I'm <a href="https://www.linkedin.com/in/bocan/" target="_blank">Chris Funderburg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">  </h2>
 <img alt="click - then click and drag" align='left' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width='225'>
     
 - I'm a freelance consultant Cloud Architect / Devops Engineer and run my own company: <a href="https://cloudcauldron.io/" target="_blank">Cloud Cauldron Limited</a>.
