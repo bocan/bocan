@@ -19,7 +19,7 @@
 
 <h2>📣 Advice Bot!</h2>
 
-<img src="https://cloudcauldron.io/advice/test.php?">
+<img alt="random advice" src="https://cloudcauldron.io/advice/test.php?">
 
 <h2>🛠 My Toolkit</h2>
 
