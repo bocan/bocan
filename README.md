@@ -53,7 +53,7 @@
 
 <h2>🤝 Let's stay connected!</h2>
 
-<a href="https://www.linkedin.com/in/bocan/" target="_blank">LinkedIn</a>&nbsp;<a rel="me" href="https://mastodon.clouccauldron.io/@bocan">Mastodon</a>  
+<a href="https://www.linkedin.com/in/bocan/" target="_blank">LinkedIn</a>&nbsp;<a rel="me" href="https://mastodon.cloudcauldron.io/@bocan">Mastodon</a>  
     <br/>
     <br/>
 <a href="https://github.com/ghpvc/github-profile-views-counter">
