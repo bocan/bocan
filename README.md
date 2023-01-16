@@ -9,7 +9,7 @@
     
     
 - I'm a freelance consultant Cloud Architect / Devops Engineer and run my own company: <a href="https://cloudcauldron.io/" target="_blank">Cloud Cauldron Limited</a>.
-- We're currently working with <a href="https://www.pitchup.com/" target="_blank">Pitchup.com</a>, which is booking system for campsites, caravan parks, and glamping. They help not just with somewhere to stay, but with local bike info, walking routes, pubs (of course) and nearby events.  We're helping them by providing some Google Cloud and Kubernetes expertise, working through their small amount of technical debt, and building a more sustainable and secure systems platform to allow them to grow safely.
+- Currently, I'm between contracts and enjoying a couple of weeks off before looking for anything new.
 - In my youth, I worked at Burger King, washed oil rigs so they could be sold, loaded nuclear and non-nuclear munitions onto F-111 and F-16 aircraft in the US Air Force, worked as a an mechanic and then a roofer.  Now, I have more than 25 years experience in the IT industry. I've been a developer, a DBA, a system administrator, a release engineer, an infrastructure manager, a NOC engineer, and both a cloud engineer, and devops lead.
 - I'm an expert in public clouds like AWS and Google Cloud, infrastructure as code, container building and orchestration, database administration, observability, and software delivery pipelines using Continuous Integration and Continuous Deployment.    
 - Outside of tech, I'm an keen photographer, an environmentalist (with an Open University Bachelor of Science in "Environmental Management and Technology"), an allotment gardener, a charity trustee, and an occasional Nintendo Switch, Playstation 5, and PC gamer.
