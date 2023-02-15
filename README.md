@@ -9,7 +9,9 @@
     
     
 - I'm a freelance consultant Cloud Architect / Devops Engineer and run my own company: <a href="https://cloudcauldron.io/" target="_blank">Cloud Cauldron Limited</a>.
-- Currently, I'm between contracts and enjoying a couple of weeks off before looking for anything new.
+- Currently, I'm actively seeking a new client/project (outside IR35 only) working with either AWS or Google Cloud, and dealing with Kubernetes, Terraform, any CI/CD tooling, and all things DevOps.
+
+
 - In my youth, I worked at Burger King, washed oil rigs so they could be sold, loaded nuclear and non-nuclear munitions onto F-111 and F-16 aircraft in the US Air Force, worked as a an mechanic and then a roofer.  Now, I have more than 25 years experience in the IT industry. I've been a developer, a DBA, a system administrator, a release engineer, an infrastructure manager, a NOC engineer, and both a cloud engineer, and devops lead.
 - I'm an expert in public clouds like AWS and Google Cloud, infrastructure as code, container building and orchestration, database administration, observability, and software delivery pipelines using Continuous Integration and Continuous Deployment.    
 - Outside of tech, I'm an keen photographer, an environmentalist (with an Open University Bachelor of Science in "Environmental Management and Technology"), an allotment gardener, a charity trustee, and an occasional Nintendo Switch, Playstation 5, and PC gamer.
