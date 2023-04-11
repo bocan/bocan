@@ -9,7 +9,7 @@
     
     
 - I'm a freelance consultant Cloud Architect / Devops Engineer and run my own company: <a href="https://cloudcauldron.io/" target="_blank">Cloud Cauldron Limited</a>.
-- Currently, I'm working with [Tesco Bank](https://www.tescobank.com/) via [Openbox](https://openbox.digital/) as Lead Engineer of the Containers team.  I'm responsible for architecting, building, and supporting a system allowing banking applications to be run easily inside Kubernetes.
+- Currently, I'm working with [Tesco Bank](https://www.tescobank.com/) via [Openbox](https://openbox.digital/) as Lead Engineer of the Containers team.  I'm responsible for architecting, building, and supporting a system allowing banking applications to be delivered in a safe and compliant manner.
 
 
 - In my youth, I worked at Burger King, washed oil rigs so they could be sold, loaded nuclear and non-nuclear munitions onto F-111 and F-16 aircraft in the US Air Force, worked as a an mechanic and then a roofer.  Now, I have more than 25 years experience in the IT industry. I've been a developer, a DBA, a system administrator, a release engineer, an infrastructure manager, a NOC engineer, and both a cloud engineer, and devops lead.
