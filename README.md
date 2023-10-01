@@ -13,7 +13,7 @@
 
 
 - In my youth, I worked at Burger King, washed oil rigs so they could be sold, loaded nuclear and non-nuclear munitions onto F-111 and F-16 aircraft in the US Air Force, worked as a an mechanic and then a roofer.  Now, I have more than 25 years experience in the IT industry. I've been a developer, a DBA, a system administrator, a release engineer, an infrastructure manager, a NOC engineer, and both a cloud engineer, and devops lead.
-- I'm an expert in public clouds like AWS and Google Cloud, infrastructure as code, container building and orchestration, database administration, observability, and software delivery pipelines using Continuous Integration and Continuous Deployment.    
+- I'm an expert in public clouds like AWS, Google Cloud, and Azure, infrastructure as code, container building and orchestration, database administration, observability, and software delivery pipelines using Continuous Integration and Continuous Deployment.    
 - Outside of tech, amonst other things, I'm a tree hugging hippy, a keen photographer, an environmentalist (with an Open University Bachelor of Science in "[Environmental Management and Technology](https://stem.open.ac.uk/study/undergraduate-subject-areas/environmental-management-and-technology)"), an allotment gardener, a charity trustee, and an occasional Nintendo Switch, Playstation 5, and PC gamer.
 - 📩 Feel free to reach me at chris@cloudcauldron.io.
 
