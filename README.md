@@ -9,7 +9,7 @@
     
     
 - I'm a freelance consultant Cloud Architect / Devops Engineer and run my own company: <a href="https://cloudcauldron.io/" target="_blank">Cloud Cauldron Limited</a>.
-- Currently, I'm working with [Element](https://www.element.com/) via [StackZone](https://stackzone.com/) as a consultant Principal [Platform Engineer](https://platformengineering.org/blog/what-is-platform-engineering).  I'm responsible for architecting, building, and supporting a system allowing Element's applications to be delivered as containers to Kubernetes inside Azure in a safe and compliant manner.
+- Currently, I just finished a contract with [Element](https://www.element.com/) and I'm looking for a new role as a consultant principal [DevSecOps](https://swimlane.com/blog/devsecops-roles-responsibilites/) or [Platform Engineer](https://platformengineering.org/blog/what-is-platform-engineering).  I'm responsible for architecting, building, and supporting a system allowing Element's applications to be delivered as containers to Kubernetes inside Azure in a safe and compliant manner.
 
 
 - In my youth, I worked at Burger King, washed oil rigs so they could be sold, loaded nuclear and non-nuclear munitions onto F-111 and F-16 aircraft in the US Air Force, worked as a an mechanic and then a roofer.  Now, I have more than 25 years experience in the IT industry. I've been a developer, a DBA, a system administrator, a release engineer, an infrastructure manager, a NOC engineer, and both a cloud engineer, and devops engineer, and as my industry's evolved, and platform engineer.
