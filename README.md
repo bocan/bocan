@@ -81,7 +81,7 @@ supreme in the dreaming west. Hither came Chris the Texan, little-haired, sullen
 MacBook in hand, a builder, a programmer, a sys-admin, a DevSecOps engineer, with
 gigantic melancholies and gigantic mirth, to tread the jewelled server rooms of the
 earth under his sandled feet.
--- By me - with appologies to Robert E. Howard, creator of Conan the Barbarian
+-- By me - with apologies to Robert E. Howard, creator of Conan the Barbarian
 ```
 
 ```
