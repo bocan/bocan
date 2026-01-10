@@ -50,13 +50,16 @@
 
 <h2>🏆 Github Stats</h2>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=bocan&theme=radical&show_icons=true" alt="bocan's Github Stats" width="75%"/><br />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bocan&theme=dark" width="75%"><br />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocan&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="75%">
-</p>
+![Readme](./out/readme.gif)
+![Main Stats](./out/main-stats.gif)
+![Languages](./out/languages.gif)
+![Top Languages](./out/top-languages.gif)
+![Issue Tracking](./out/issue-tracking.gif)
+![Code Metrics](./out/code-metrics.gif)
+![Activity Overview](./out/activity-overview.gif)
+![Commit Streak](./out/commit-streak.gif)
 
-<h2>🤝 Let's stay connected!</h2>
+<h2>🤝 Let's stay connected!</h2> 
 
 <a href="https://www.linkedin.com/in/bocan/" target="_blank">LinkedIn</a>&nbsp;<a rel="me" href="https://infosec.exchange/@bocan">Mastodon</a>  
     <br/>
