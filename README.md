@@ -64,12 +64,25 @@
 <a href="https://github.com/ghpvc/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bocan&color=green&style=for-the-badge">
 </a>
-    
-<h2>"Know, O Prince,</h2>
-    
-that between the years when the oceans drank Microsoft DOS and the gleaming Windows, and the rise of "The Cloud", there was an Age undreamed of, when shining servers lay spread across the world like blue mantles beneath the stars - Debian, FreeBSD, Slackware, AIX, Solaris with its dark-haired sales women and server towers of spider-haunted mystery, SuSE with its chivalry, Caldera that bordered the pastoral lands of SCO, OpenBSD with its shadow-guarded passwords, RedHat whose Sys Admins wore steel and silk and gold. But the proudest kingdom of the world was Mac OS, reigning supreme in the dreaming west. Hither came Chris the Texan, little-haired, sullen-eyed, MacBook in hand, a builder, a programmer, a sys-admin, a DevSecOps engineer, with gigantic melancholies and gigantic mirth, to tread the jewelled server rooms of the earth under his sandled feet."
 
 <h2>Fin</h2>
+
+```
+Know, O Prince,
+    
+That between the years when the oceans drank Microsoft DOS and the gleaming Windows,
+and the rise of "The Cloud", there was an Age undreamed of, when shining servers lay
+spread across the world like blue mantles beneath the stars - Debian, FreeBSD,
+Slackware, AIX, Solaris with its dark-haired sales women and server towers of
+spider-haunted mystery, SuSE with its chivalry, Caldera that bordered the pastoral
+lands of SCO, OpenBSD with its shadow-guarded passwords, RedHat whose Sys Admins wore
+steel and silk and gold. But the proudest kingdom of the world was Mac OS, reigning
+supreme in the dreaming west. Hither came Chris the Texan, little-haired, sullen-eyed,
+MacBook in hand, a builder, a programmer, a sys-admin, a DevSecOps engineer, with
+gigantic melancholies and gigantic mirth, to tread the jewelled server rooms of the
+earth under his sandled feet.
+-- By me - with appologies to Robert E. Howard, creator of Conan the Barbarian
+```
 
 ```
 Death closes all: but something ere the end,
