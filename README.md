@@ -68,3 +68,20 @@
 <h2>"Know, O Prince,</h2>
     
 that between the years when the oceans drank Microsoft DOS and the gleaming Windows, and the rise of "The Cloud", there was an Age undreamed of, when shining servers lay spread across the world like blue mantles beneath the stars - Debian, FreeBSD, Slackware, AIX, Solaris with its dark-haired sales women and server towers of spider-haunted mystery, SuSE with its chivalry, Caldera that bordered the pastoral lands of SCO, OpenBSD with its shadow-guarded passwords, RedHat whose Sys Admins wore steel and silk and gold. But the proudest kingdom of the world was Mac OS, reigning supreme in the dreaming west. Hither came Chris the Texan, little-haired, sullen-eyed, MacBook in hand, a builder, a programmer, a sys-admin, a DevSecOps engineer, with gigantic melancholies and gigantic mirth, to tread the jewelled server rooms of the earth under his sandled feet."
+
+<h2>Fin</h2>
+
+```
+Death closes all: but something ere the end,
+Some work of noble note, may yet be done,
+Not unbecoming men that strove with Gods.
+The lights begin to twinkle from the rocks:
+The long day wanes: the slow moon climbs: the deep
+Moans round with many voices. Come, my friends,
+'T is not too late to seek a newer world.
+Push off, and sitting well in order smite
+The sounding furrows; for my purpose holds
+To sail beyond the sunset, and the baths
+Of all the western stars, until I die.
+-- from "Ulysses" by Alfred Lord Tennyson
+```
