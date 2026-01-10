@@ -14,7 +14,13 @@ export const RemotionRoot = () => {
 		props
 	) => {
 		const {usernames} = getInputProps();
+		console.log('Input usernames:', usernames);
 		const userStats = await getUserStats(usernames as string[]);
+		console.log('Fetched userStats:', {
+			name: userStats.name,
+			starCount: userStats.starCount,
+			totalCommits: userStats.totalCommits,
+		});
 
 		return {
 			props: {

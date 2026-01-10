@@ -15,6 +15,11 @@ import { AnimatedCounter } from '../Effects/AnimatedCounter';
 export function Stats({ userStats }: { userStats: UserStats }) {
 	const frame = useCurrentFrame();
 
+	if (frame === 0) {
+		console.log('Stats component - userStats:', userStats);
+		console.log('Stats component - starCount:', userStats?.starCount);
+	}
+
 	const firstFields: {
 		icon?;
 		label: string;

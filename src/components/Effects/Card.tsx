@@ -7,7 +7,10 @@ type CardProps = {
 };
 
 export function Card({children, userStats}: CardProps) {
+  console.log('Card received userStats:', userStats ? 'YES' : 'NO', userStats);
+
   if (!userStats) {
+    console.error('Card: userStats is null/undefined, returning null');
     return null;
   }
 
@@ -16,4 +19,4 @@ export function Card({children, userStats}: CardProps) {
       {children}
     </AbsoluteFill>
   );
-} 
+}
