@@ -50,7 +50,7 @@
 
 <h2>🏆 Github Stats</h2>
 
-![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/your-username?response=image))
+![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/bocan?response=image))
 - [Made With GithubFlareStats](https://github.com/openlab-x/GithubFlareStats)
 
 
