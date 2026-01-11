@@ -50,14 +50,9 @@
 
 <h2>🏆 Github Stats</h2>
 
-![Readme](./out/readme.gif)
-![Main Stats](./out/main-stats.gif)
-![Languages](./out/languages.gif)
-![Top Languages](./out/top-languages.gif)
-![Issue Tracking](./out/issue-tracking.gif)
-![Code Metrics](./out/code-metrics.gif)
-![Activity Overview](./out/activity-overview.gif)
-![Commit Streak](./out/commit-streak.gif)
+![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/your-username?response=image))
+- [Made With GithubFlareStats](https://github.com/openlab-x/GithubFlareStats)
+
 
 <h2>🤝 Let's stay connected!</h2> 
 
