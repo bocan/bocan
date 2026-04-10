@@ -50,8 +50,9 @@
 
 <h2>🏆 Github Stats</h2>
 
-  ![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/bocan?response=image&bgColor=%23f0f0f0&textColor=%23000000&cardColor=%23d9e6f2&chartColor=%23007bff&chartTextColor=black))
-- [Made With GithubFlareStats](https://github.com/openlab-x/GithubFlareStats)
+  ![GitHub Stats](https://chris.funderburg.me/github-stats/stats)
+
+  ![GitHub Stats](https://chris.funderburg.me/github-stats/langs)
 
 
 <h2>🤝 Let's stay connected!</h2> 
