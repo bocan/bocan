@@ -8,7 +8,7 @@
 <img alt="octocat" align="right" src="https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif" width="225">
     
     
-- I'm a consultant Platform Engineer, DevSecOps Practitioner, Cloud Architect.
+- I'm a Principal Platform Engineer, DevSecOps Practitioner, Cloud Architect.
   
 - I've currently working for [Indicium AI](https://indicium.ai/) as a Principal Consultant [Platform Engineer](https://chris.funderburg.me/what-is-a-platform-engineer/).
 
