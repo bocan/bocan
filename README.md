@@ -4,22 +4,50 @@
 
 <h2> < Hello World, I'm <a href="https://www.linkedin.com/in/bocan/" target="_blank">Chris Funderburg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h2>
     
-    
 <img alt="octocat" align="right" src="https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif" width="225">
 
-- Maintainer of a few open-source things:
-  - [Bòcan](https://bocan.app) - A MacOS native music library and player for Local music.  Think iTunes meets Winamp from 2009. It lives [here](https://github.com/bocan/bocan-music).
-  - [Ultraformat](https://ultraformat.dev) - Just a privacy focussed developer tool site. It lives [here](https://github.com/bocan/ultraformat).
+<h3>You've either stumbled across my GitHub Profile - or you're a stalker!  I don't judge!</h3>
 
-    
-- I'm a consultant Platform Engineer, DevSecOps Practitioner, Cloud Architect.
-  
-- I've currently working for [Indicium AI](https://indicium.ai/) as a consultant Principal [Platform Engineer](https://chris.funderburg.me/what-is-a-platform-engineer/).
+Just a little about me, since you're here:
 
+<h4>At Work</h4>
 
-- In my youth, I worked at Burger King, washed oil rigs so they could be sold, loaded nuclear and non-nuclear munitions onto F-111 and F-16 aircraft in the US Air Force, worked as a mechanic and then a roofer.  Now, I have more than 25 years experience in the IT industry. I've been a developer, a DBA, a system administrator, a release engineer, an infrastructure manager, a NOC engineer, and both a cloud engineer and DevSecOps engineer, and as my industry's evolved, a platform engineer.
+- I'm currently working for [Indicium AI](https://indicium.ai/) as a Forward Deployed Engineer. 
+- By trade, I'm a Principal Platform Engineer, DevSecOps Practitioner, and Cloud Architect.
+- In my youth, I worked at Burger King, washed oil rigs so they could be sold, loaded nuclear and non-nuclear munitions onto F-111 and F-16 aircraft in the US Air Force, worked as a mechanic and then a roofer.
+- Now, I have more than 30 years experience in the IT industry. I've been a developer, a DBA, a system administrator, a release engineer, an infrastructure manager, a NOC engineer, and both a cloud engineer and DevSecOps engineer, and as my industry's evolved, a platform engineer.
 - I'm an expert in public clouds like AWS, Google Cloud, and Azure, infrastructure as code, container building and orchestration, database administration, observability, and software delivery pipelines using Continuous Integration and Continuous Deployment.    
-- Outside of tech, amonst other things, I'm a tree hugging hippy, a keen photographer, an environmentalist (with an Open University Bachelor of Science in "[Environmental Management and Technology](https://stem.open.ac.uk/study/undergraduate-subject-areas/environmental-management-and-technology)"), an allotment gardener, a charity trustee, and an occasional Nintendo Switch, Playstation 5, and PC gamer.
+
+<h4>Everywhere Else</h4>
+
+- Outside of tech, amongst other things, I'm a tree hugging hippy, a keen photographer, an environmentalist (with an Open University Bachelor of Science in "[Environmental Management and Technology](https://stem.open.ac.uk/study/undergraduate-subject-areas/environmental-management-and-technology)"), an allotment gardener, a charity trustee, and an occasional Nintendo Switch, Playstation 5, and PC gamer.
+
+<h4>Why Open Source?</h4>
+
+I build things because I enjoy building things. That's the honest easy answer.
+
+The deeper one: I write software I want to use myself, because I don't like the alternatives. I have a profound aversion to products that are just a front-end view onto somebody's proprietary backend. They watch you. They need to monetise you eventually, because the money has to come from somewhere and it isn't coming from the product. And they increasingly think they get to dictate how you use a thing you're supposed to own.
+
+You'll find none of that here.
+
+Everything you can see is open source. No ads. No algorithms. No telemetry. Nothing phones home about you. When something does hit the network, it's because you asked it to and you can see where it's going. You'll need no account, because there's no server for an account to live on. And it's all using Open Source licenses, which means it stays that way whether or not I do.
+
+If a handful of people use these and have a good time, brilliant. That's a bonus, but not a business model. There is no business model.
+
+<h4>So, I'm Maintainer of a few open-source things</h4>
+
+| Project | Description |
+| - | - |
+| [Bòcan Music ](https://bocan.app) | A macOS native music library and player for people who still own their music..  Think iTunes meets Winamp from 2009. The code lives [here](https://github.com/bocan/bocan-music). |
+| [Bòcan Music Android ](https://bocan.app) | The Android half of Bòcan Music: your Mac's library, synced one way over your own Wi-Fi with pinned mutual TLS. No cloud, no account, no telemetry.  |
+| [Codex](https://github.com/bocan/codex) | A wiki and document store built with React + Express. Organize markdown files in folders with a beautiful three-pane UI, dark mode, live preview, full REST API, and an optional built in MCP server |
+| [My RSS Reader](https://github.com/bocan/my-rss-reader) | RSS is still king!  This is aa calm, self-hosted, multi-user RSS reader for people who miss the old web. |
+| [The Liminal Dial](https://liminaldial.net) | 12 radio stations great for late night coding, sleep, and background chill.  The code is [here](https://github.com/bocan/radio). |
+| [Ultraformat](https://ultraformat.dev) | Just a privacy focussed developer tool site. It lives [here](https://github.com/bocan/ultraformat) - but please do run it yourself if you'd like |
+
+
+
+
 - 📩 Feel free to reach me at chris@funderburg.me.
 
 <h2>📣 Advice Bot!</h2>
@@ -53,7 +81,7 @@
 [![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
 [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
 
-<h2>🏆 Github Stats</h2>
+<h2>🏆 GitHub Stats</h2>
 
   ![GitHub Stats](https://chris.funderburg.me/github-stats/stats)
 
