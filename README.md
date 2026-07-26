@@ -34,7 +34,7 @@ Everything you can see is open source. No ads. No algorithms. No telemetry. Noth
 
 If a handful of people use these and have a good time, brilliant. That's a bonus, but not a business model. There is no business model.
 
-<h4>So, I'm Maintainer of a few open-source things</h4>
+<h3>So, I'm Maintainer of a few open-source things</h3>
 
 | Project | Description |
 | - | - |
