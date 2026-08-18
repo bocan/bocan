@@ -12,7 +12,7 @@ Just a little about me, since you're here:
 
 <h4>At Work</h4>
 
-- I'm currently working for [Indicium AI](https://indicium.ai/) as a Forward Deployed Engineer. 
+- I'm currently working for [Indicium AI](https://indicium.ai/) as a Principal Forward Deployed Engineer. 
 - By trade, I'm a Principal Platform Engineer, DevSecOps Practitioner, and Cloud Architect.
 - In my youth, I worked at Burger King, washed oil rigs so they could be sold, loaded nuclear and non-nuclear munitions onto F-111 and F-16 aircraft in the US Air Force, worked as a mechanic and then a roofer.
 - Now, I have more than 30 years experience in the IT industry. I've been a developer, a DBA, a system administrator, a release engineer, an infrastructure manager, a NOC engineer, and both a cloud engineer and DevSecOps engineer, and as my industry's evolved, a platform engineer.
