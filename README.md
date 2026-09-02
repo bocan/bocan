@@ -22,18 +22,6 @@ Just a little about me, since you're here:
 
 - Outside of tech, amongst other things, I'm a tree hugging hippy, a keen photographer, an environmentalist (with an Open University Bachelor of Science in "[Environmental Management and Technology](https://stem.open.ac.uk/study/undergraduate-subject-areas/environmental-management-and-technology)"), an allotment gardener, a charity trustee, and an occasional Nintendo Switch, Playstation 5, and PC gamer.
 
-<h4>Why Open Source?</h4>
-
-I build things because I enjoy building things. That's the honest easy answer.
-
-The deeper one: I write software I want to use myself, because I don't like the alternatives. I have a profound aversion to products that are just a front-end view onto somebody's proprietary backend. They watch you. They need to monetise you eventually, because the money has to come from somewhere and it isn't coming from the product. And they increasingly think they get to dictate how you use a thing you're supposed to own.
-
-You'll find none of that here.
-
-Everything you can see is open source. No ads. No algorithms. No telemetry. Nothing phones home about you. When something does hit the network, it's because you asked it to and you can see where it's going. You'll need no account, because there's no server for an account to live on. And it's all using Open Source licenses, which means it stays that way whether or not I do.
-
-If a handful of people use these and have a good time, brilliant. That's a bonus, but not a business model. There is no business model.
-
 <h3>So, I'm Maintainer of a few open-source things</h3>
 
 | Project | Description |
