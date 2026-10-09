@@ -28,10 +28,8 @@ Just a little about me, since you're here:
 | - | - |
 | [Bòcan Music ](https://github.com/bocan/bocan-music) | A macOS native music library and player for people who still own their music..  Think iTunes meets Winamp from 2009. |
 | [Bòcan Music Android ](https://github.com/bocan/bocan-music-android) | The Android companion of Bòcan Music: your Mac's library, synced one way over your own Wi-Fi with pinned mutual TLS. No cloud, no account, no telemetry.  |
-| [Codex](https://github.com/bocan/codex) | A wiki and document store built with React + Express. Organise markdown files in folders with a beautiful three-pane UI, dark mode, live preview, full REST API, and an optional built in MCP server |
 | [Mood RSS Reader](https://github.com/bocan/mood-rss-reader) | RSS is still king!  This is a calm, self-hosted, multi-user RSS reader for people who miss the old web. |
 | [The Liminal Dial](https://liminaldial.net) | 12 radio stations great for late night coding, sleep, and background chill.  The code is [here](https://github.com/bocan/radio). |
-| [Ultraformat](https://ultraformat.dev) | Just a privacy focussed developer tool site. It lives [here](https://github.com/bocan/ultraformat) - but please do run it yourself if you'd like |
 | [UltraStatus](https://ultrastatus.cloudcauldron.io/) | One dashboard to rule them all. Its code lives [here](https://github.com/bocan/ultrastatus) - but please do run it yourself too if you'd like |
 
 
